@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-bookshop-basic.herokuapp.com']
+ALLOWED_HOSTS = ['django-bookshops-basic.herokuapp.com']
 
 
 # Application definition
