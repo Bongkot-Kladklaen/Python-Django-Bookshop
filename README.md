@@ -29,26 +29,27 @@ Example web application page
 ## Technologies
 Project is created with:
 - [python3](https://www.python.org/)
-- [flask](https://flask.palletsprojects.com/en/1.1.x/)
-- [Bootstrap 3](https://getbootstrap.com/docs/3.4/)
+- [Django](https://www.djangoproject.com/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction)
+- [Heroku](https://www.heroku.com)
 
 ## Setup
 To clone this project, you need [Git](https://git-scm.com) to install on your computer. command line below:
 
 ```zsh
 # Clone this repository
-$ git clone https://github.com/Bongkot-Kladklaen/Python-Flask-CRUD.git
+$ git clone https://github.com/Bongkot-Kladklaen/Python-Django-Bookshop.git
 
 # Go into the repository
-$ cd Python-Flask-CRUD
+$ cd Python-Django-Bookshop
 ```
 ## Config project
-1. Create database and table :
+<!-- 1. Create database and table :
 
-    Open project `PHP-VueJS_CRUD` find folder: `database>database.sql` and Import file sql to database server for you
+    Open project `Python-Django-Bookshop` find folder: `database>database.sql` and Import file sql to database server for you
 2. Config connect database server : 
 
-    Open project `PHP-VueJS_CRUD` find file: `app.py` to config: hostname, username, password, database
+    Open project `Python-Django-Bookshop` find file: `app.py` to config: hostname, username, password, database
  
     ```python
         # Config database connect
@@ -56,7 +57,7 @@ $ cd Python-Flask-CRUD
         username = 'root'
         password = 'root'
         database = 'flask_db'
-    ```
+    ``` -->
 
 ## License
 [MIT](LICENSE)
