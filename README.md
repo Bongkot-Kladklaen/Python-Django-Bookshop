@@ -1,5 +1,5 @@
 # Python-Django-Bookshop
->Basic Django create bookshop
+>Django python framework using to create web bookshop
 
 ## Table of Contents
   - [Demo](#demo)
