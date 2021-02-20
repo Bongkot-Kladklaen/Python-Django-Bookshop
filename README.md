@@ -15,12 +15,16 @@ Here is a working live demo: [Basic web Bookshop](https://django-bookshops-basic
 Example web application page
 ### Home page
 ![](screenshots/home.png)
-### Insert page
-![](screenshots/insert.png)
-### Update page
-![](screenshots/update.png)
-### Delete page
-![](screenshots/delete.png)
+### Login page
+![](screenshots/login.png)
+### Register page
+![](screenshots/register.png)
+### Book page
+![](screenshots/book.png)
+### Detail book page
+![](screenshots/detail.png)
+### Add book page
+![](screenshots/addbook.png)
 
 ## Technologies
 Project is created with:
